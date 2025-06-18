@@ -1,0 +1,7 @@
+# 默认的 Express 项目忽略文件
+node_modules
+.env
+.DS_Store
+.idea
+.vscode
+.git
